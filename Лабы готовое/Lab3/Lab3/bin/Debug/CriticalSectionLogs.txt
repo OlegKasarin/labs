@@ -1,0 +1,35 @@
+------------------
+MaxThreads = 10, MaxIOThreads 10
+Add new task
+Add new task
+Running thread = 3
+Running thread = 4
+Add new task
+Running thread = 3
+Running thread = 4
+Add new task
+Running thread = 5
+Running thread = 3
+Running thread = 4
+Add new task
+Running thread = 6
+Running thread = 5
+Running thread = 3
+Running thread = 6
+Running thread = 5
+Running thread = 3
+Running thread = 6
+Running thread = 3
+------------------
+MaxThreads = 10, MaxIOThreads 10
+Add new task
+Add new task
+Running thread = 3
+Add new task
+Running thread = 4
+Add new task
+Running thread = 3
+Add new task
+Running thread = 4
+Running thread = 3
+Running thread = 5

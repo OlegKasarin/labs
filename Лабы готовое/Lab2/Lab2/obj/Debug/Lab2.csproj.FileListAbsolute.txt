@@ -1,0 +1,27 @@
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Kanstantsin\Downloads\Lab2\Lab2\obj\Debug\Lab2.pdb
+G:\Lab2\Lab2\bin\Debug\Lab2.exe.config
+G:\Lab2\Lab2\bin\Debug\Lab2.exe
+G:\Lab2\Lab2\bin\Debug\Lab2.pdb
+G:\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+G:\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+G:\Lab2\Lab2\obj\Debug\Lab2.exe
+G:\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.pdb
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.exe.config
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.exe
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\bin\Debug\Lab2.pdb
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.exe
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab2\Lab2\obj\Debug\Lab2.pdb

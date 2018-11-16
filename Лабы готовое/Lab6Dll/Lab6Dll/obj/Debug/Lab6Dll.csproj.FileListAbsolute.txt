@@ -1,0 +1,8 @@
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\bin\Debug\Lab6Dll.dll
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\bin\Debug\Lab6Dll.pdb
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\bin\Debug\WindowsBase.dll
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\obj\Debug\Lab6Dll.csprojAssemblyReference.cache
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\obj\Debug\Lab6Dll.csproj.CoreCompileInputs.cache
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\obj\Debug\Lab6Dll.csproj.CopyComplete
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\obj\Debug\Lab6Dll.dll
+M:\Работы на заказ по программированию\Работы на заказ(БГУиР)\C#\Ирина Благун\Лабы готовое\Lab6Dll\Lab6Dll\obj\Debug\Lab6Dll.pdb
